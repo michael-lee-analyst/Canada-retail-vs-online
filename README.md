@@ -2,7 +2,7 @@
 
 **E-commerce nearly tripled, but stores still win 93% of sales.**
 
-![Online Shopping Trend](images/page1.png)
+![Online Shopping Trend](images/page 1.png)
 
 ## The question
 How much of Canada's shopping happens online, how fast is it growing, and how does it compare with shopping in stores?
@@ -42,8 +42,8 @@ How much of Canada's shopping happens online, how fast is it growing, and how do
 | Store Types | KPI cards and sales by type of store, with a year slicer |
 | Provinces | KPI cards and sales by province, with a year slicer |
 
-![Store Types](images/page2.png)
-![Provinces](images/page3.png)
+![Store Types](images/page 2.png)
+![Provinces](images/page 3.png)
 
 ## Limitations
 - E-commerce figures are only published for Canada as a whole, so online share can't be split by province or store type.
